@@ -1,42 +1,6 @@
 {
-  "Spar Liberty Square": {
-    "url": "https://maps.app.goo.gl/NifSQyHxAiMkVPTd6",
-    "group": "Center"
-  },
-  "Justice House": {
-    "url": "https://maps.app.goo.gl/dJ4qjDJcvKVNMAoD9",
-    "group": "Center"
-  },
-  "Spar Amaghleba(Last one)": {
-    "url": "https://maps.app.goo.gl/6gGL8XL3thufu5PeA",
-    "group": "Center"
-  },
-  "Wendy's Smart": {
-    "url": "https://maps.app.goo.gl/nsA564z3Jz9StXfeA",
-    "group": "North"
-  },
-  "Smart The First": {
-    "url": "https://maps.app.goo.gl/BPomrY4wJJRvikWS7",
-    "group": "North"
-  },
-  "Red(Maglivi) Bridge": {
-    "url": "https://maps.app.goo.gl/o7BYKQw2LznhWjcTA",
-    "group": "Saburtalo"
-  },
-  "University St. Roundabout": {
-    "url": "https://maps.app.goo.gl/mWT5ADaTBvb9UVt27",
-    "group": "Saburtalo"
-  },
-  "Wendy's Pekini": {
-    "url": "https://maps.app.goo.gl/5uVj6QyyiGDTAcm8A",
-    "group": "Saburtalo"
-  },
-  "Salty": {
-    "url": "https://maps.app.goo.gl/3viQuZcuT1EpBv1o6",
-    "group": "Saburtalo"
-  },
-  "McDonald's Saakadze Sq.": {
-    "url": "https://maps.app.goo.gl/fBiuHnHbnS2Wf1kVA",
-    "group": "Saburtalo"
+  "Argo Cable Car": {
+    "url": "https://maps.app.goo.gl/q4o2BpLVb3LMS9wz6",
+    "group": "Default"
   }
 }
