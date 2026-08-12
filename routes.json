@@ -1,5 +1,14 @@
 {
-  "Circle": {
-    "route_url": "https://www.komoot.com/tour/2620025625"
+  "Circle via Makho": {
+    "route_url": "https://www.komoot.com/tour/2620025625",
+    "preview_url": ""
+  },
+  "Kobuleti via hills": {
+    "route_url": "https://www.komoot.com/tour/3193215585",
+    "preview_url": ""
+  },
+  "Sarpi with uphill": {
+    "route_url": "https://www.komoot.com/tour/3193317204",
+    "preview_url": ""
   }
 }
